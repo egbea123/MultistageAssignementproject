@@ -9,7 +9,7 @@ class TicketGeneratorApplicationTests {
  	private TicketGeneratorApplication ticketer = new TicketGeneratorApplication();
 
 	@Test
-	void contextLoads() {public void testRandomNumber() {
+	public void testRandomNumber() {
                 assertTrue(ticketer.getRandomTicketNumber()>1000&&ticketer.getRandomTicketNumber()<9999);        
         }
 }
