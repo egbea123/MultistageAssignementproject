@@ -15,5 +15,5 @@ public class TicketGeneratorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TicketGeneratorApplication.class, args);
 	}
-
+    }
 }
