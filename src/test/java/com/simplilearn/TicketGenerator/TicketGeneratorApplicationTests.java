@@ -1,8 +1,7 @@
 package com.simplilearn.TicketGenerator;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.*
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
